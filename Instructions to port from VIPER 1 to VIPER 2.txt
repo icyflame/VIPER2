@@ -1,0 +1,25 @@
+Steps for updating from VIPER 1.0 to VIPER 2.0
+
+1. Download the following three files:
+
+VIPER2.EXE
+PORTRECS.EXE
+PORTPASS.EXE
+
+2. Go to the directory in which you kept the previous files.(VIPER) Now rename this directory as "VIPER 1.0". And create another folder as "VIPER 2.0". 
+
+3. Copy these three files into the folder "VIPER 2.0"
+
+4. Now copy the two files "p.dat"and "pw.dat" from "VIPER 1.0" to "VIPER 2.0"
+
+5. Run the two exe files "PORTPASS.EXE" and "PORTRECS.EXE"
+
+6. After this you will see that two new files called "PW1.dat" and "P1.dat" will be there in this folder. These are the old files now under different name. 
+
+7. Copy these two files into the folder "VIPER 1.0"
+
+8. Now you are all set to run "VIPER2.EXE"
+
+The two files p1.dat and pw1.dat are for security of data. In case you have problems with this version do email me. And make sure that you don't delete the files p.dat and pw.dat in the old directory. Once the porting is done and you are satisfied with everything then you can delete the folder viper 1.0. But I would recommend that you keep this folder nonetheless. It is a small folder and does not occupy much space. 
+
+Hope you all like this version. Do comment and mail me about any issues you may be having with the software.
